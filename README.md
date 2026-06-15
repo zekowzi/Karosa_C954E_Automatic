@@ -13,3 +13,5 @@ Après les différents LiteTexs, les différents mods pour BBS, voici une conver
 
 # Installation
 Juste à glisser ce petit bonhomme dans le dossier du Karosa C954E qui est **requis**.
+
+Ce mod est protégé par une licence **Tous droits réservés** - Kowzi (iwxbeà 2026
