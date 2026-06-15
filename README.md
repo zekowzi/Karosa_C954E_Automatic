@@ -1,10 +1,8 @@
 # Karosa C954 et C954E - Boîte Automatique
 Après les différents LiteTexs, les différents mods pour BBS, voici une conversion en boîte automatique pour l'Irisbus Recreo, aka Karosa C954E. Je sais, il n'existe pas de version automatique (tout comme le Axer), mais comme l'Axer en boîte auto (sur lequel certains scripts sont basés), c'est un mod fictif.
 
-**ATTENTIION**: Pensez à réadapter vos repaints pour y inclure la textures **sedacka_ridic.dds** ou **.bmp**.
-
 # Bugs connus:
-- L'ABS peut s'activer et rester activté
+- Le siège CR n'a aucune texture (en cours d'enquête)
 
 # Credits:
 - jujudu29 (créateur Irisbus Axer) - Base scripts, boîtier Voith et textures liées.
