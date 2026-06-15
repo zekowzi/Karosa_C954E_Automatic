@@ -9,6 +9,7 @@ Après les différents LiteTexs, les différents mods pour BBS, voici une conver
 - jujudu29 (créateur Irisbus Axer) - Base scripts, boîtier Voith et textures liées.
 - Marty515 - Création du Karosa C954E et sons.
 - db047 - Beta-testing
+- Mr Nobody - Beta-testing
 
 # Installation
 Juste à glisser ce petit bonhomme dans le dossier du Karosa C954E qui est **requis**.
