@@ -4,12 +4,10 @@ Après les différents LiteTexs, les différents mods pour BBS, voici une conver
 # Patchnotes:
 1.1.5
 - Passage en standalone
+- Correction de l'ABS
 
 1.1:
 - Correctif du siège CR
-
-# Bugs connus:
-- L'ABS peut s'activer et rester activté
 
 # Credits:
 - jujudu29 (créateur Irisbus Axer) - Base scripts, boîtier Voith et textures liées.
