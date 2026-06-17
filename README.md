@@ -5,6 +5,7 @@ Après les différents LiteTexs, les différents mods pour BBS, voici une conver
 1.1.5
 - Passage en standalone
 - Correction de l'ABS
+- Retrait du C954
 
 1.1:
 - Correctif du siège CR
